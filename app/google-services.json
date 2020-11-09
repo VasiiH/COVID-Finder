@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1032910272675",
+    "firebase_url": "https://covid-19-8349f.firebaseio.com",
+    "project_id": "covid-19-8349f",
+    "storage_bucket": "covid-19-8349f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032910272675:android:db5e63e800fd167f28e716",
+        "android_client_info": {
+          "package_name": "com.codex.map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032910272675-tjrk8k8fn85j1vregkvn4tk73v28ghvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ7TX6otlv3AGyeF7kbfAjYy-qf3HCisw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032910272675-tjrk8k8fn85j1vregkvn4tk73v28ghvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032910272675:android:38bfdd27dafd152728e716",
+        "android_client_info": {
+          "package_name": "com.example.map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032910272675-tjrk8k8fn85j1vregkvn4tk73v28ghvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ7TX6otlv3AGyeF7kbfAjYy-qf3HCisw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032910272675-tjrk8k8fn85j1vregkvn4tk73v28ghvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032910272675:android:1c6fa1e26eac298428e716",
+        "android_client_info": {
+          "package_name": "com.vasii.map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032910272675-tjrk8k8fn85j1vregkvn4tk73v28ghvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ7TX6otlv3AGyeF7kbfAjYy-qf3HCisw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032910272675-tjrk8k8fn85j1vregkvn4tk73v28ghvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
